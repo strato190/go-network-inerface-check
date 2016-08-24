@@ -14,5 +14,5 @@ Flags:
 
 Full example:
 ```
-go-network-inerface-check -ubuntu=true -ignoreif=eth0,eth1,eth2 -debug=true
+network-inerface-check -ubuntu=true -ignoreif=eth0,eth1,eth2 -debug=true
 ```
